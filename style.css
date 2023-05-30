@@ -1,0 +1,44 @@
+body {font-family: 'Lora';font-size: 22px;
+    background-color: #fefaef;}
+    h1 {color: Black;
+        text-align:left; 
+        font-size: 65px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        position: relative;
+        left: 60px
+    }
+    h1:hover{
+        color: #899096
+    }
+    h2 {color: black;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 30px;
+        position: relative;
+        margin-left: 60px;
+    }
+    h2:hover{
+        color: #899096
+    }
+    p {color: #6c4f40; 
+        position: absolute;
+        padding-left: 60px;
+        font-size: 20px;
+    }
+    img {float: right;
+        margin-right: 30px
+    }
+
+    button{
+        position:center;
+        left: 30px;
+
+
+    }
+    .dot {
+        height: 10px;
+        width: 10px;
+        background-color: #bbb;
+        border-radius: 50%;
+        display: inline-block;
+        position;
+      }
